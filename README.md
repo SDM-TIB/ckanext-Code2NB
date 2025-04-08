@@ -22,6 +22,7 @@ As usual for CKAN extensions, you can install `ckanext-Code2NB` as follows:
 ```bash
 git clone git@github.com:SDM-TIB/ckanext-Code2NB.git
 pip install -e ./ckanext-Code2NB
+pip install -r ./ckanext-Code2NB/requirements.txt
 ```
 
 
